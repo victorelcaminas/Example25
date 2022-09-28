@@ -11,8 +11,8 @@ public class Example25 {
         num = inputValue.nextInt();
 
         for (i = 1; i <= 10; i++) {
-           multi = num * i;
-            System.out.println(num + " x " + i+ " = " +multi);
+            multi = num * i;
+            System.out.println(num + " x " + i + " = " + multi);
         }
     }
 }
